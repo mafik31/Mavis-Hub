@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "⛏️ Bitcoin Miner Script ⛏️ ",
+   Name = "Mavis Hub | Test! | ",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Mavis Hub",
    LoadingSubtitle = "by mavis",
